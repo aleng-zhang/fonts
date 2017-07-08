@@ -4,5 +4,5 @@
 ### 使用
 ```bash
 git clone https://github.com/aleng-zhang/fonts
-./fonts/install.sh
+./fonts/fonts_install.sh
 ```
