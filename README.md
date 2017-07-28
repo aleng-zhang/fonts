@@ -1,8 +1,9 @@
-### 说明
-修复wps字体缺失 & zsh powerline字体
+## 说明：
+修复wps字体缺失 && zsh powerline字体
 
-### 使用
-```bash
+## Usage:
+~~~bash
 git clone https://github.com/aleng-zhang/fonts
-./fonts/fonts_install.sh
-```
+cd ./fonts
+./fonts_install.sh
+~~~
