@@ -3,7 +3,6 @@
 
 ## Usage:
 ~~~bash
-git clone https://github.com/aleng-zhang/fonts
-cd ./fonts
-./fonts_install.sh
+sudo apt install -y curl
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/aleng-zhang/fonts/master/fonts_install.sh)"
 ~~~
